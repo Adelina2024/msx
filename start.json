@@ -1,0 +1,7 @@
+{
+  "name": "Kavkaz IPTV",
+  "version": "1.5.0",
+  "parameter": "content:https://adelina2024.github.io/msx/content.json",
+  "welcome": "none",
+  "launcher": { "image": "https://adelina2024.github.io/msx/banner.png", "color": "#1E0C3A" }
+}
