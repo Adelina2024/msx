@@ -634,6 +634,7 @@ body.radio-on .rd-mini { display: flex; }
 .detail .sh2 { background: rgba(6,5,16,0.6); }
 .detail .sh3 { background: linear-gradient(0deg, rgba(6,5,16,0.9), rgba(6,5,16,0)); opacity: 1; }
 .detail .title { font-family: "Playfair Display", Georgia, serif; }
+.setmain > * { -webkit-flex-shrink: 0; flex-shrink: 0; }
 
 /* flex-gap fallbacks */
 .nogap /* Left navigation rail */
